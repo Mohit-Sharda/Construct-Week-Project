@@ -1,0 +1,22 @@
+#cont{
+    height: 150px;
+    background-color: #003b95;
+}
+#bt{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+
+#head{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+}
+#logo{
+    display: flex;
+    justify-content:end;
+    gap: 20px;
+    height: 30px;
+    margin-top: 15px;
+}

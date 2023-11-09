@@ -1,0 +1,27 @@
+#cont{
+    height: 200px;
+    text-align: center;
+    padding-top: 35px;
+    background-color: #00224f;
+    color: white;
+}
+#foot{
+    text-align: center;
+    background-color: blueviolet;
+    
+}
+a{
+    gap: 20px;
+}
+#flist{
+    display: flex;
+    justify-content: space-evenly;
+}
+#fimg{
+display: flex;
+justify-content: center;
+gap: 50px;
+}
+div > ul{
+color: #006CE4;
+}

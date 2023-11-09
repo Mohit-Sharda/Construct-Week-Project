@@ -1,0 +1,105 @@
+.head{
+    margin-left: 150px;
+}
+#cont {
+position: relative;
+}
+#cont > img{
+    width: 100%;
+    height: 600px;
+}
+.text-block {
+position: absolute;
+bottom:350px;
+left: 200px;
+color: white;
+
+}
+.input{
+display: flex;
+justify-content: center;
+width: 100%;
+
+
+}
+input[type=text] {
+border:2px solid yellow;
+
+height: 50px;
+
+}
+#check{
+text-align: center;
+margin-top: 30px;
+
+}
+/* .one{
+display: flex;
+border: solid red;
+height: 200px;
+justify-content: center;
+} */
+/* .one > div > img{
+height: 200px;
+
+} */
+/* .two {
+border: solid blue;
+display: flex;
+} */
+
+.two{
+display: flex;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+border-radius: 10px;
+
+
+}
+.one{
+
+display: flex;
+width: 80%;
+margin: auto;
+gap: 10px;
+height: 250px;
+
+}
+.two > div > img{
+    height: 250px;
+}
+.third{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    
+}
+.third > div > img{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+}
+.forth{
+    
+    width: 90%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    
+
+}
+.forth > div{
+    width: 23%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.forth > div > img{
+    width: 100%;
+}
+.fifth{
+    display: flex;
+    height: 350px;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+}
+.fifth > div >img{
+    height: 350px;
+}
